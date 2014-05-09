@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>fangk</title><link href="/" rel="alternate"></link><link href="/feeds%5Cfangk.atom.xml" rel="self"></link><id>/</id><updated>2014-05-09T00:00:00+02:00</updated><entry><title>blog-2014-05-09</title><link href="/blog-2014-05-09.html" rel="alternate"></link><updated>2014-05-09T00:00:00+02:00</updated><author><name>fangk</name></author><id>tag:,2014-05-09:blog-2014-05-09.html</id><summary type="html">&lt;h3 id="john_carmackde+++"&gt;John Carmackde的名言&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>fangk</title><link href="/" rel="alternate"></link><link href="/feeds%5Cfangk.atom.xml" rel="self"></link><id>/</id><updated>2014-05-09T17:23:00+02:00</updated><entry><title>关于《专业主义》</title><link href="/guan-yu-zhuan-ye-zhu-yi.html" rel="alternate"></link><updated>2014-05-09T17:23:00+02:00</updated><author><name>fangk</name></author><id>tag:,2014-05-09:guan-yu-zhuan-ye-zhu-yi.html</id><summary type="html">&lt;p&gt;这两天在班车上阅读大前研一的《专业主义》，其实书名和主题由出入，大前研一的书基本上都是在用不同的主题讨论相同的思想，这也并非坏事，至少证明大前研一所写的是自己的想法。《专业主义》这本书标价32.00元，我感觉不值这个钱，但仔细想想，自己买过的很多高于32块钱的书，又记住了什么东西呢？《专业主义》这本书还有1/3就看完了，至少我记住了以下几个东西：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;稻盛和夫是个发问机关枪，不探究个底掉决不罢休；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;世界上有8亿人拥有相同的学历、工作环境、生活方式，比如都在Windows环境中上网，这8亿人基本上是流行电子产品、网站的消费者。（2005年数据）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;大前研一说到关于提问的能力，不要对自己的观点含糊其辞，不要伪装自己的观点，这样我想到了马克思在《共产党宣言》中所说的，共产党人不屑于隐瞒自己的观点和意图。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>blog-2014-05-09</title><link href="/blog-2014-05-09.html" rel="alternate"></link><updated>2014-05-09T00:00:00+02:00</updated><author><name>fangk</name></author><id>tag:,2014-05-09:blog-2014-05-09.html</id><summary type="html">&lt;h3 id="john_carmackde+++"&gt;John Carmackde的名言&lt;/h3&gt;
 &lt;p&gt;今天突然想起了John Carmack的话——&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;在信息时代，客观障碍已经不复存在，所谓障碍都是主观上的。如果你想动手开发什么全新的技术，你不需要几百万的资金，你只需要在冰箱里面放满匹萨和可乐，再有一台便宜的计算机，和为之献身的决心。&lt;/em&gt;&lt;/p&gt;
